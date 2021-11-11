@@ -1,3 +1,5 @@
+# retangulo.py
+
 def area(altura, largura):
     return altura*largura
 def comprimento(altura, largura):
