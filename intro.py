@@ -90,18 +90,20 @@ retangulo = ret
 print(retangulo.area(5,10)) # >> 50
 print(retangulo.comprimento(5,10)) # >> 30
 
-########### Uso da biblioteca NumPy ###########
-import numpy
-import numpy as np
+########### Comandos em Python ###########
+# Acessando Python pelo terminal
+python
 
-# Matriz unidimensional
-numeros1d = np.array([1, 2, 3, 4, 5])
-# Matriz bidimensional
-numeros2d = np.array([
-    [1, 2, 3, 4, 5],
-    [5, 4, 3, 2, 1]
-])
+# Imprimindo dados
+print("Olá mundo!")
 
-# shape, informa a quantidade de valores e dimensões
-print(numeros1d.shape)
-print(np.arange(6))
+# Utilizando ajuda
+help()
+# help> symbols - Retorna uma lista com os símbolos dos operadores utilizados em Python.
+
+# executando um programa Python
+# python diretorio/nomedoprograma.py
+
+# Encerrar o python via linha de comando
+quit()
+exit()
