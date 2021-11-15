@@ -77,8 +77,8 @@ print(df_alunos["Turma"].value_counts())
 print(df_alunos.groupby("Turma").mean())
 
 # Retornando linhas que não contem valor NaN
-df.dropna()
+print(df.dropna())
 # Preenchendo valores NaN de um dataframe
-df.fillna(99)
+print(df.fillna(99))
 # Verifica valores NaN de um df
-df.isna()
+print(df.isna())
