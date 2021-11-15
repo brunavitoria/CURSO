@@ -1,17 +1,16 @@
 ########### Iniciando em Python ###########
 
-# Variáveis
+## Variáveis
 nome = "Bruna" # str - texto
 notaProva1 = 7.8 # float - real
 notaProva2 = 9 # int - inteiro
 verdadeiro = True # bool - booleano
-# Variável de um cálculo
-media = (notaProva1+notaProva2)/2 
-# Variável informada pelo usuário
-nomedousuario  = input("Qual seu nome?") 
-# Estruturas de dados
+media = (notaProva1+notaProva2)/2 # Variável de um cálculo
+nomedousuario  = input("Qual seu nome?") # Variável informada pelo usuário
+
+## Estruturas de dados
 numeros = [1, 2, 3, 4, 5] # list - lista
-numeros2 = 1, 2, 3, 4, 5 # tuple - tuplas
+numeros2 = 1, 2, 3, 4, 5 # tuple - tupla
 numeros3 = {'Um': 1, 'Dois': 2, 'Três': 3} # dictionary - dicionário
 
 # Criando uma Função
@@ -66,7 +65,6 @@ elif notaProva1 == notaProva2:
 else:
     print("A nota da prova 1 não é maior que a nota da prova 2")
     print(len(nome))
-    print(5/5)
 
 # Comandos de repetições
 # Imprimindo números de 1 ao 10

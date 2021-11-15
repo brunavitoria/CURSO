@@ -8,7 +8,7 @@ numeros1d = np.array([1, 2, 3, 4, 5])
 # shape -> informa a quantidade de valores e dimensoes
 print(numeros1d.shape)
 # arange -> cria uma matriz unidimensional com base nos dados informados
-# arange ( [ inicio , ] fim , [ espacamento , ] dtype = None , * , like = None )
+# arange ( [ inicio , ] fim , [ espacamento ])
 print(np.arange(6)) # [0, 1, 2, 3, 4, 5]
 print(np.arange(0, 10, 2)) # [0 2 4 6 8]
 # reshape((dimencoes, elementos)) -> redimensiona uma matriz
@@ -41,7 +41,6 @@ print(matriz_ones)
 # random.random() -> cria uma matriz de valores aleatorios
 matriz_random = np.random.random((5)) 
 print(matriz_random)
-
 
 # Matriz bidimensional
 numerosa = np.array([
