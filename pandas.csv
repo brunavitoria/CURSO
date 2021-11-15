@@ -1,0 +1,14 @@
+dispositivo,ip,valor
+notebook,192.168.0.1,2500.00
+caneta,NaN,1.50
+smartphone,192.168.0.2,1800.00
+computador,192.168.0.3,4500.00
+assistente_virtual,192.168.0.4,560.00
+lampada,192.168.0.5,150.00
+camera,192.168.0.6,299.00
+tesoura,NaN,2.30
+sensor_movimento,192.168.0.7,230.00
+sensor_temperatura,192.168.0.8,380.00
+NaN,192.168.0.11,NaN
+xbox,192.168.0.9,4200.00
+smart_watch,192.168.0.10,640.00
