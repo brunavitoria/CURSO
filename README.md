@@ -1,6 +1,6 @@
 # curso
 Repositório com scripts utilizados na aula de Introdução à Python do curso de extensão Introdução à Ciência de Dados Aplicada à Cibersegurança ofertado pelo DCC da UFMG.
-Saiba mais em: [Flex Grid](https://www.cursoseeventos.ufmg.br/CAE/DetalharCae.aspx?CAE=10414)
+Saiba mais em: [Curso](https://www.cursoseeventos.ufmg.br/CAE/DetalharCae.aspx?CAE=10414)
 
 ## Dependências
 - Python 3
